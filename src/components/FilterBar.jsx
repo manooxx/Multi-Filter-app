@@ -3,7 +3,13 @@ import React from 'react'
 const FilterBar = () => {
   return (
     <div>
-      FilterBar
+        {/* catagory filter */}
+
+        {/* cuisines filter */}
+
+        {/* price range */}
+        
+        {/* start rating */}
     </div>
   )
 }
